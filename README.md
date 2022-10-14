@@ -72,13 +72,6 @@ rubocop --auto-correct-all
 
 ## Authors
 
-
-👤 **Mohamed aachour**
-
-- GitHub: [](https://github.com/)
-- Twitter: [](https://twitter.com/)
-- LinkedIn: [](https://linkedin.com/in/
-
 👤 **Esi Ogagaoghene**
 
 - GitHub: [ogagaoghene](https://github.com/ogagaoghene)
@@ -93,6 +86,13 @@ rubocop --auto-correct-all
 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a)
 
+ **Author3**
+
+👤 **Mohamed aachour**
+
+- GitHub: [](https://github.com/)
+- Twitter: [](https://twitter.com/)
+- LinkedIn: [](https://linkedin.com/in/
 
 ## 🤝 Contributors
 
