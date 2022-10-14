@@ -38,7 +38,7 @@ https://github.com/AACHOURMOHAMED/ruby-capstone
 ### Move into the directory with
 
 ```bash
-cd oop_school_library_ruby
+cd ruby-capstone
 ```
 
 ### Run Project
